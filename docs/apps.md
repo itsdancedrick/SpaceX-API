@@ -20,4 +20,4 @@
 | [SpaceX-Launch-Bot](https://github.com/r-spacex/SpaceX-Launch-Bot) | Discord bot | [Simon](https://github.com/thatguywiththatname) | [Github](https://github.com/r-spacex/SpaceX-Launch-Bot) | |
 | [Space Launch Now](https://spacelaunchnow.me/) | API/Website/Apps | [Caleb Jones](https://github.com/ItsCalebJones) | [Github](https://github.com/ItsCalebJones/SpaceLaunchNow-Server) | |
 | [AV-SpaceX DB](https://av-spacex.surge.sh/) | API/Website | [Aswin Varghese](http://aswinvarghese.com) | [Github]() | |
-| [SpaceX Archive DB](https://spacex-archive.web.app/) | Website/Apps | [Cedrick Alegroso](https://itsdancedrick.github.io/githubsite/) | [Github](https://github.com/itsdancedrick) | |
+| [SpaceX Archive DB](https://spacex-archive.web.app/) | Website/Apps | [Cedrick Alegroso] (https://itsdancedrick.github.io/githubsite/) | [Github](https://github.com/itsdancedrick) | |
